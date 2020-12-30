@@ -1,13 +1,22 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <meta charset="utf-8">
-        <title>My Blog</title>
         <link rel="stylesheet" href="/css/style.css">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Tailwind Starter Template - Responsive Header : Tailwind Toolbox</title>
+        <meta name="author" content="name">
+        <meta name="description" content="description here">
+        <meta name="keywords" content="keywords,here">
+        <link href="https://unpkg.com/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <!--Replace with your tailwind.css once created-->
     </head>
     <body>
+    {% include header.liquid %}
         <h1>{{ pageTitle }}</h1>
 
         {{ content }}
+    {% include footer.liquid %}
+
     </body>
 </html>
