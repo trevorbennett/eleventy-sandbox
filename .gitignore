@@ -104,4 +104,4 @@ dist
 .tern-port
 
 # _site generated fileds
-_site
+_site/
