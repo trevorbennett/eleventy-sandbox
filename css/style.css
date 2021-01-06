@@ -2,6 +2,16 @@ body {
     background: #fff7e7
 }
 
+h1 {
+    display: block;
+    font-size: 2.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
 h2 {
     display: block;
     font-size: 2em;
@@ -10,4 +20,18 @@ h2 {
     margin-left: 0;
     margin-right: 0;
     font-weight: bold;
+}
+
+h3 {
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+a {
+    color: blue
 }
