@@ -3,7 +3,7 @@ pageTitle: Useful templates for 11ty
 By: Trevor Bennett
 Date: 12/28/20
 Source: https://www.11ty.dev/docs/starter/
-tags: [notes, fruit, data]
+tags: [notes, myExampleCollection, data]
 layout: layout.liquid
 # meta: add notes here - this section is frontmatter - note that tags override values from notes.json 
 ---
