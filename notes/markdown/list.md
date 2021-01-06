@@ -3,73 +3,75 @@ pageTitle: Useful templates for 11ty
 By: Trevor Bennett
 Date: 12/28/20
 Source: https://www.11ty.dev/docs/starter/
-meta: frontmatter
+tags: [notes, fruit, data]
+layout: layout.liquid
+# meta: add notes here - this section is frontmatter - note that tags override values from notes.json 
 ---
 ***
 
 ### The List
 
-https://disjfa.github.io/eleventy-encore/
+[eleventy-encore](https://disjfa.github.io/eleventy-encore/)
 
-https://eleventy-agile-blog.markjgsmith.com/about/
+[eleventy-agile-blog](https://eleventy-agile-blog.markjgsmith.com/about/)
 
-https://eleventy-classic-blog-starter.vercel.app/
+[eleventy-classic-blog-starter](https://eleventy-classic-blog-starter.vercel.app/)
 
-https://agilitycms-eleventy-starter-2020.vercel.app/blog
+[agilitycms-eleventy-starter-2020](https://agilitycms-eleventy-starter-2020.vercel.app/blog)
 
-https://vredeburg.netlify.app/
+[vredeburg](https://vredeburg.netlify.app/)
 
-https://11ty-notes.vercel.app/
+[11ty-notes](https://11ty-notes.vercel.app/)
 
-https://neat-starter.netlify.app/
+[neat-starter](https://neat-starter.netlify.app/)
 
-https://reeseschultz.github.io/11r/
+[reeseschultz 11r](https://reeseschultz.github.io/11r/)
 
-https://contentful.github.io/11ty-contentful-starter/second-page/
+[11ty-contentful-starter](https://contentful.github.io/11ty-contentful-starter/second-page/)
 
-https://eleventyone.netlify.app/about/
+[eleventyone](https://eleventyone.netlify.app/about/)
 
-https://jace-ty.netlify.app/post
+[jace-ty](https://jace-ty.netlify.app/post)
 
-https://rocket11ty.netlify.app/posts/
+[rocket11ty](https://rocket11ty.netlify.app/posts/)
 
-https://supermaya-demo.netlify.app/sign-up/
+[supermaya](https://supermaya-demo.netlify.app/sign-up/)
 
-https://rusingh.com/micro/
+[rusingh](https://rusingh.com/micro/)
 
-https://11ta.netlify.app/blog/
+[11ta](https://11ta.netlify.app/blog/)
 
-https://hylia.website/
+[hylia](https://hylia.website/)
 
-https://11ty-netlify-jumpstart.netlify.app/
+[11ty-netlify-jumpstart](https://11ty-netlify-jumpstart.netlify.app/)
 
-https://creativedesignsguru.com/
+[creativedesignsguru](https://creativedesignsguru.com/)
 
-https://fundamenty.netlify.app/en/
+[fundamenty](https://fundamenty.netlify.app/en/)
 
-https://eleventy-react.netlify.app/blog/
+[eleventy-react](https://eleventy-react.netlify.app/blog/)
 
-https://eleventy-netlify-boilerplate.netlify.app/
+[eleventy-netlify-boilerplate](https://eleventy-netlify-boilerplate.netlify.app/)
 
-https://skeleventy.netlify.app/
+[skeleventy](https://skeleventy.netlify.app/)
 
-https://gallery.contentful.com/
+[contentful](https://gallery.contentful.com/)
 
-https://www.sanity.io/
+[sanity](https://www.sanity.io/)
 
-https://www.industrialempathy.com/posts/eleventy-high-performance-blog/#comments
+[industrialempathy](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/#comments)
 
-https://brycewray.com/
+[brycewray](https://brycewray.com/)
 
-https://eleventy-solo-starter-alpha.vercel.app/
+[eleventy-solo-starter-alpha](https://eleventy-solo-starter-alpha.vercel.app/)
 
-https://www.11ty.dev/
+[11ty](https://www.11ty.dev/)
 
-https://spacebook.app/
+[spacebook](https://spacebook.app/)
 
-https://pack11ty.dev/documentation/
+[pack11ty](https://pack11ty.dev/documentation/)
 
-https://7ty.tech/about
+[7ty](https://7ty.tech/about)
 
 
 
